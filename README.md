@@ -10,6 +10,10 @@ I managed the training data for the project, ultimately collecting 122,487 audio
 <img align="center" src="/Pictures/Example Teams Task 2.png" alt="Example Teams Task #1 - Replace FMA Data" width="auto" height="auto">
 <img align="center" src="/Pictures/Example Teams Task.png" alt="Example Teams Task #2 - Automate CLI Testing" width="auto" height="auto">
 
+## [Internships at Leica Geosystems](<https://leica-geosystems.com/en-us/>)
+- Summer 2022: Developed, in C++, a feature to verify the integrity of scan data as it moves between the scanner and Register 360, and then to sign the LGS file as it leaves Register 360, so it can be verified as untampered with after that point.
+- Summer 2023: Worked on a variety of projects, using C++ and Emscripten, alongside demonstrating running a legacy Windows application on Linux via the use of compatibility tools, and packaging that application into Docker.
+
 <!--
 **AlexWalsh2/AlexWalsh2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
