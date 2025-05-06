@@ -14,6 +14,9 @@ I managed the training data for the project, ultimately collecting 122,487 audio
 - Summer 2022: Developed, in C++, a feature to verify the integrity of scan data as it moves between the scanner and Register 360, and then to sign the LGS file as it leaves Register 360, so it can be verified as untampered with after that point.
 - Summer 2023: Worked on a variety of projects, using C++ and Emscripten, alongside demonstrating running a legacy Windows application on Linux via the use of compatibility tools, and packaging that application into Docker.
 
+## Academic Excellence
+- 3.94 GPA
+
 <!--
 **AlexWalsh2/AlexWalsh2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
